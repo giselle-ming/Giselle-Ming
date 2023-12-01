@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![giphy](https://github.com/Giselle-Mingue/Giselle-Mingue/assets/32442441/b0cdb54b-6416-439b-b6ee-5754c375c692)
+
 I'm Giselle, a passionate software engineer, archery enthusiast, rollerblader, and proud cat parent to Winter.
 
 - 🔭 I’m currently working on mastering my mobile app development skills.
