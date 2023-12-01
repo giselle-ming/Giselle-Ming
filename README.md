@@ -1,6 +1,6 @@
-### Hi there 👋
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Giselle-Mingue/Giselle-Mingue/assets/32442441/f10edd9b-cb34-41bb-85e4-1ba49a374618)
 
-![giphy](https://github.com/Giselle-Mingue/Giselle-Mingue/assets/32442441/b0cdb54b-6416-439b-b6ee-5754c375c692)
+### Hi there 👋 
 
 I'm Giselle, a passionate software engineer, archery enthusiast, rollerblader, and proud cat parent to Winter.
 
